@@ -18,9 +18,9 @@ require (
 	github.com/projectdiscovery/cryptoutil v0.0.0-20210805184155-b5d2512f9345
 	github.com/projectdiscovery/fastdialer v0.0.15
 	github.com/projectdiscovery/fdmax v0.0.3
-	github.com/projectdiscovery/fileutil v0.0.0-20210926202739-6050d0acf73c
+	github.com/projectdiscovery/fileutil v0.0.0-20210928100737-cab279c5d4b5
 	github.com/projectdiscovery/goconfig v0.0.0-20210804090219-f893ccd0c69c
-	github.com/projectdiscovery/goflags v0.0.7
+	github.com/projectdiscovery/goflags v0.0.8
 	github.com/projectdiscovery/gologger v1.1.4
 	github.com/projectdiscovery/hmap v0.0.2-0.20210917080408-0fd7bd286bfa
 	github.com/projectdiscovery/httputil v0.0.0-20210816170244-86fd46bc09f5
@@ -72,5 +72,5 @@ require (
 	golang.org/x/tools v0.1.6-0.20210726203631-07bc1bf47fb2 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
